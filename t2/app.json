@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "VersionCheck",
+    "slug": "t2",
+    "owner": "bzozoo",
+    "version": "51.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "35051ee3-4d2e-495c-8b67-238dffcaac96"
+      }
+    },
+    "android": {
+      "package": "com.bzozoo.t2"
+    }
+  }
+}
